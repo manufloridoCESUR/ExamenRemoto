@@ -1,0 +1,66 @@
+* commit 20f439c73ffea8a08aed8524a9904fd8e64d9b63 (HEAD -> master, manufloridoCESUR/master)
+| Author: manufloridoCESUR <manuel.ma39601@cesurformacion.com>
+| Date:   Fri May 7 09:07:20 2021 +0200
+| 
+|     Modificado ejercicio2 y añadida captura
+| 
+* commit e990228be692f5621de3e0aab7d9e236251b3e80
+| Author: manufloridoCESUR <manuel.ma39601@cesurformacion.com>
+| Date:   Fri May 7 09:05:05 2021 +0200
+| 
+|     Añadido ejercicio2
+| 
+* commit ff0a6ce38ebad26ffc8f667aed0176f4629fae3b
+| Author: manufloridoCESUR <manuel.ma39601@cesurformacion.com>
+| Date:   Fri May 7 09:02:10 2021 +0200
+| 
+|     Archivo modificado y añadidas capturas de funcionamiento
+| 
+* commit 50a0edaea80fc5ced27a4d84784844c64cb699ec
+| Author: manufloridoCESUR <manuel.ma39601@cesurformacion.com>
+| Date:   Fri May 7 08:56:57 2021 +0200
+| 
+|     Subido descripcion_ejercicio1
+| 
+* commit 4c4f02fd397cc706c01fa53d6bd67be40fbc5dc8
+  Author: manufloridoCESUR <82811697+manufloridoCESUR@users.noreply.github.com>
+  Date:   Fri May 7 09:09:22 2021 +0200
+  
+      Initial commit
+  
+* commit 6747a970ce6c5206e4c7ef1ac3281d5dcbffaf77 (Rama_Ejercicio2)
+| Author: manufloridoCESUR <manuel.ma39601@cesurformacion.com>
+| Date:   Fri May 7 09:07:20 2021 +0200
+| 
+|     Modificado ejercicio2 y añadida captura
+| 
+* commit b83a8c4f4b36fd3db5da54e199d6fc014fbd2175
+| Author: manufloridoCESUR <manuel.ma39601@cesurformacion.com>
+| Date:   Fri May 7 09:05:05 2021 +0200
+| 
+|     Añadido ejercicio2
+| 
+* commit a607fbc88955f6297e0cde499c10b60856bf1204
+| Author: manufloridoCESUR <manuel.ma39601@cesurformacion.com>
+| Date:   Fri May 7 09:02:10 2021 +0200
+| 
+|     Archivo modificado y añadidas capturas de funcionamiento
+| 
+* commit e0897f0f90d9c083556b9baf8235e9fda9ed2283
+  Author: manufloridoCESUR <manuel.ma39601@cesurformacion.com>
+  Date:   Fri May 7 08:56:57 2021 +0200
+  
+      Subido descripcion_ejercicio1
+20f439c HEAD@{0}: pull --rebase manufloridoCESUR master (finish): returning to refs/heads/master
+20f439c HEAD@{1}: pull --rebase manufloridoCESUR master (pick): Modificado ejercicio2 y añadida captura
+e990228 HEAD@{2}: pull --rebase manufloridoCESUR master (pick): Añadido ejercicio2
+ff0a6ce HEAD@{3}: pull --rebase manufloridoCESUR master (pick): Archivo modificado y añadidas capturas de funcionamiento
+50a0eda HEAD@{4}: pull --rebase manufloridoCESUR master (pick): Subido descripcion_ejercicio1
+4c4f02f HEAD@{5}: pull --rebase manufloridoCESUR master (start): checkout 4c4f02fd397cc706c01fa53d6bd67be40fbc5dc8
+6747a97 HEAD@{6}: merge Rama_Ejercicio2: Fast-forward
+a607fbc HEAD@{7}: checkout: moving from Rama_Ejercicio2 to master
+6747a97 HEAD@{8}: commit: Modificado ejercicio2 y añadida captura
+b83a8c4 HEAD@{9}: commit: Añadido ejercicio2
+a607fbc HEAD@{10}: checkout: moving from master to Rama_Ejercicio2
+a607fbc HEAD@{11}: commit: Archivo modificado y añadidas capturas de funcionamiento
+e0897f0 HEAD@{12}: commit (initial): Subido descripcion_ejercicio1
