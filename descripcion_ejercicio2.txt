@@ -1,2 +1,3 @@
 En este ejercicio he realizado un while y he ejecutado el comando escrito por el usuario con un time.
 También he creado un contador para las iteraciones
+Muestra tiempo real, user y sys
