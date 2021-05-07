@@ -1,2 +1,3 @@
 En el ejercicio 1 he realizado un script con un case para que seleccione la opción que desea ejecutar.
 Si la opción seleccionada no está entre esas 5, salta fallo y reinicia el script a los 5 segundos.
+Lo he hecho en una máquina ubuntu
